@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:iLLnBA a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q19-5-1" ;
-    rdfs:comment "Homo sapiensにおけるAPOC1遺伝子の各組織での発現レベルはどれくらいですか？"@jp ;
+    rdfs:comment "Homo sapiensにおけるAPOC1遺伝子の各組織での発現レベルはどれくらいですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: Homo sapiensにおけるAPOC1遺伝子の各組織での発現レベルはどれくらいですか？
 # Parameter: gene_name: (example: APOC1)

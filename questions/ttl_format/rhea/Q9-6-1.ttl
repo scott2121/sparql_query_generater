@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:YWRh3y a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q9-6-1" ;
-    rdfs:comment "rhea:10024に関連する科学文献のPubMed識別子をリストアップしてください。"@jp ;
+    rdfs:comment "rhea:10024に関連する科学文献のPubMed識別子をリストアップしてください。"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024に関連する科学文献のPubMed識別子をリストアップしてください。
 # Parameter: Reaction: (example: rhea:10024)

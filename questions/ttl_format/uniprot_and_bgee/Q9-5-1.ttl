@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:arh6n7 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q9-5-1" ;
-    rdfs:comment "obo:GO_0001618 に属するタンパク質の名前と、それらの遺伝子の各組織における発現レベルを教えてください。"@jp ;
+    rdfs:comment "obo:GO_0001618 に属するタンパク質の名前と、それらの遺伝子の各組織における発現レベルを教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: obo:GO_0001618 に属するタンパク質の名前と、それらの遺伝子の各組織における発現レベルを教えてください。
 # Parameter: uniprot_go: (example: obo:GO_0001618)

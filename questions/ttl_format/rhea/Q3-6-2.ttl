@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:p3VErs a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q3-6-2" ;
-    rdfs:comment "D-tryptophan分子が参加する化学反応のRHEA IDを示してください。"@jp ;
+    rdfs:comment "D-tryptophan分子が参加する化学反応のRHEA IDを示してください。"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: D-tryptophan分子が参加する化学反応のRHEA IDを示してください。
 # Parameter: compound_name: (example: D-tryptophan)

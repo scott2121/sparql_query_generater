@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:71RBVe a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID15-5-1" ;
-    rdfs:comment "ACE2タンパク質について詳しく述べている重要な研究論文のDOI (Digital Object Identifier) を教えてください。"@jp ;
+    rdfs:comment "ACE2タンパク質について詳しく述べている重要な研究論文のDOI (Digital Object Identifier) を教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2タンパク質について詳しく述べている重要な研究論文のDOI (Digital Object Identifier) を教えてください。

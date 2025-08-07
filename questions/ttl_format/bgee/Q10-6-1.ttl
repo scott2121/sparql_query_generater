@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:ar9m7E a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q10-6-1" ;
-    rdfs:comment "APOC1遺伝子はどの組織や細胞において発現していますか？"@jp ;
+    rdfs:comment "APOC1遺伝子はどの組織や細胞において発現していますか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子はどの組織や細胞において発現していますか？
 # Parameter: gene_name: (example: APOC1)

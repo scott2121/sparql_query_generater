@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:G3f58U a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID10-4-1" ;
-    rdfs:comment "Reactome ID reactome:R-HSA-2022377に関連するタンパク質の名前は何ですか?"@jp ;
+    rdfs:comment "Reactome ID reactome:R-HSA-2022377に関連するタンパク質の名前は何ですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: Reactome ID reactome:R-HSA-2022377に関連するタンパク質の名前は何ですか?

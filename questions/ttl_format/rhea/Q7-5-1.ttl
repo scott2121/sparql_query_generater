@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:ElZV2X a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q7-5-1" ;
-    rdfs:comment "rhea:10024の反応の現在の承認状態は何ですか？"@jp ;
+    rdfs:comment "rhea:10024の反応の現在の承認状態は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024の反応の現在の承認状態は何ですか？
 # Parameter: Reaction: (example: rhea:10024)

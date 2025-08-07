@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:CtXhpK a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID14-5-1" ;
-    rdfs:comment "Gene Ontology用語obo:GO_0001618に関連付けられているタンパク質の名前を列挙してください。"@jp ;
+    rdfs:comment "Gene Ontology用語obo:GO_0001618に関連付けられているタンパク質の名前を列挙してください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: Gene Ontology用語obo:GO_0001618に関連付けられているタンパク質の名前を列挙してください。

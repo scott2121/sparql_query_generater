@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:cuoygD a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q5-4-1" ;
-    rdfs:comment "ACE2遺伝子はどの組織または細胞タイプで発現しており、その対応するEC番号は何ですか？"@jp ;
+    rdfs:comment "ACE2遺伝子はどの組織または細胞タイプで発現しており、その対応するEC番号は何ですか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ACE2遺伝子はどの組織または細胞タイプで発現しており、その対応するEC番号は何ですか？
 # Parameter: gene_name: (example: ACE2)

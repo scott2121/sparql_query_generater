@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:HA5AF7 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q21-5-1" ;
-    rdfs:comment "L-lysyl-[histone]分子を含む反応のRHEA識別子および参考文献は何ですか？"@jp ;
+    rdfs:comment "L-lysyl-[histone]分子を含む反応のRHEA識別子および参考文献は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: L-lysyl-[histone]分子を含む反応のRHEA識別子および参考文献は何ですか？
 # Parameter: compound_name: (example: L-lysyl-[histone])

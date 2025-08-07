@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:v7VZRp a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q18-5-1" ;
-    rdfs:comment "primary oocyte細胞内での各遺伝子の発現量はどのくらいですか？"@jp ;
+    rdfs:comment "primary oocyte細胞内での各遺伝子の発現量はどのくらいですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: primary oocyte細胞内での各遺伝子の発現量はどのくらいですか？
 # Parameter: anatomical_entity_name: (example: primary oocyte)

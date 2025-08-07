@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:TLI3kC a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q15-4-1" ;
-    rdfs:comment "APOC1遺伝子の組織ごとの発現量は？"@jp ;
+    rdfs:comment "APOC1遺伝子の組織ごとの発現量は？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子の組織ごとの発現量は？
 # Parameter: gene_name: (example: APOC1)

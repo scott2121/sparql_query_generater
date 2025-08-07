@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:1MpyQa a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q11-4-1" ;
-    rdfs:comment "primary oocyteの解剖学的実体の説明は？"@jp ;
+    rdfs:comment "primary oocyteの解剖学的実体の説明は？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: primary oocyteの解剖学的実体の説明は？
 # Parameter: anatomical_entity_name: (example: primary oocyte)

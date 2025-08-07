@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:GT1DiT a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q20-6-2" ;
-    rdfs:comment "D-tryptophan分子が参加する化学反応のRHEA IDと、それが輸送反応かどうかを示してください。"@jp ;
+    rdfs:comment "D-tryptophan分子が参加する化学反応のRHEA IDと、それが輸送反応かどうかを示してください。"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: D-tryptophan分子が参加する化学反応のRHEA IDと、それが輸送反応かどうかを示してください。
 # Parameter: compound_name: (example: D-tryptophan)

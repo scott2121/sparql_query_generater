@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:DPe4HS a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q21-6-1" ;
-    rdfs:comment "Homo sapiensに存在するbreast細胞におけるそれぞれの遺伝子の発現量はどの程度ですか？"@jp ;
+    rdfs:comment "Homo sapiensに存在するbreast細胞におけるそれぞれの遺伝子の発現量はどの程度ですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: Homo sapiensに存在するbreast細胞におけるそれぞれの遺伝子の発現量はどの程度ですか？
 # Parameter: anatomical_entity_name: (example: breast)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:NKWjTW a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q5-5-1" ;
-    rdfs:comment "APOC1遺伝子が発現する株系統は何ですか？"@jp ;
+    rdfs:comment "APOC1遺伝子が発現する株系統は何ですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子が発現する株系統は何ですか？
 # Parameter: gene_name: (example: APOC1)

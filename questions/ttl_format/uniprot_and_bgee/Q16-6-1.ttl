@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:ZeNiqE a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q16-6-1" ;
-    rdfs:comment "angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine の反応を触媒するタンパク質の名称は何ですか？その遺伝子はどちらの性別で発現していますか？"@jp ;
+    rdfs:comment "angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine の反応を触媒するタンパク質の名称は何ですか？その遺伝子はどちらの性別で発現していますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine の反応を触媒するタンパク質の名称は何ですか？その遺伝子はどちらの性別で発現していますか？
 # Parameter: rhea_label: (example: angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine)

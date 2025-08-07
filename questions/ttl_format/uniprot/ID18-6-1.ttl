@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:lrZWyB a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID18-6-1" ;
-    rdfs:comment "ACE2遺伝子産物の結合ドメインに特異的に結合する物質にはどのようなものがありますか?"@jp ;
+    rdfs:comment "ACE2遺伝子産物の結合ドメインに特異的に結合する物質にはどのようなものがありますか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子産物の結合ドメインに特異的に結合する物質にはどのようなものがありますか?

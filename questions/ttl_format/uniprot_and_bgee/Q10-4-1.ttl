@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:s9QkNX a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q10-4-1" ;
-    rdfs:comment "obo:GO_0001618 に関連するタンパク質をコードする遺伝子の各発生段階での発現レベルはどのようになっていますか？"@jp ;
+    rdfs:comment "obo:GO_0001618 に関連するタンパク質をコードする遺伝子の各発生段階での発現レベルはどのようになっていますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: obo:GO_0001618 に関連するタンパク質をコードする遺伝子の各発生段階での発現レベルはどのようになっていますか？
 # Parameter: uniprot_go: (example: obo:GO_0001618)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:IXdAUl a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID13-4-1" ;
-    rdfs:comment "ACE2遺伝子のタンパク質はどのGOタームに分類されていますか?"@jp ;
+    rdfs:comment "ACE2遺伝子のタンパク質はどのGOタームに分類されていますか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子のタンパク質はどのGOタームに分類されていますか?

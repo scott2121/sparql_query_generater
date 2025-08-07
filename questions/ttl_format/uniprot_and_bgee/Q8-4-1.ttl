@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:zR3Eld a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q8-4-1" ;
-    rdfs:comment "ACE2遺伝子の各組織における発現レベルはどのようになっていますか？また、その遺伝子に関連するタンパク質はどのGene Ontology (GO) カテゴリーに分類されていますか？"@jp ;
+    rdfs:comment "ACE2遺伝子の各組織における発現レベルはどのようになっていますか？また、その遺伝子に関連するタンパク質はどのGene Ontology (GO) カテゴリーに分類されていますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ACE2遺伝子の各組織における発現レベルはどのようになっていますか？また、その遺伝子に関連するタンパク質はどのGene Ontology (GO) カテゴリーに分類されていますか？
 # Parameter: gene_name: (example: ACE2)

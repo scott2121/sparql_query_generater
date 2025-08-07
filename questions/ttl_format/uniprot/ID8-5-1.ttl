@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:hIApFz a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID8-5-1" ;
-    rdfs:comment "ACE2遺伝子がコードするタンパク質の生物学的役割について説明してください。"@jp ;
+    rdfs:comment "ACE2遺伝子がコードするタンパク質の生物学的役割について説明してください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子がコードするタンパク質の生物学的役割について説明してください。

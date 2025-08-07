@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:A2NFFi a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q17-6-1" ;
-    rdfs:comment "PDB ID pdb:7A97 に関連するタンパク質の名前を教えてください。また、その遺伝子が発現している性別を指定してください。"@jp ;
+    rdfs:comment "PDB ID pdb:7A97 に関連するタンパク質の名前を教えてください。また、その遺伝子が発現している性別を指定してください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: PDB ID pdb:7A97 に関連するタンパク質の名前を教えてください。また、その遺伝子が発現している性別を指定してください。
 # Parameter: uniprot_pdb: (example: pdb:7A97)

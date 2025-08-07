@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:NSy43q a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID21-5-1" ;
-    rdfs:comment "ACE2遺伝子に人工的に導入された変異とその影響について、わかっていることを説明してください。"@jp ;
+    rdfs:comment "ACE2遺伝子に人工的に導入された変異とその影響について、わかっていることを説明してください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子に人工的に導入された変異とその影響について、わかっていることを説明してください。

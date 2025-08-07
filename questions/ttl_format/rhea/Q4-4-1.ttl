@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:4ISqOg a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q4-4-1" ;
-    rdfs:comment "EC番号uniprot_enzyme:7.1.3.1に対応する反応のRHEA IDは何ですか"@jp ;
+    rdfs:comment "EC番号uniprot_enzyme:7.1.3.1に対応する反応のRHEA IDは何ですか"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: EC番号uniprot_enzyme:7.1.3.1に対応する反応のRHEA IDは何ですか
 # Parameter: reaction_ec_number: (example: uniprot_enzyme:7.1.3.1)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:hIApFz a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID8-6-1" ;
-    rdfs:comment "ACE2タンパク質の既知の機能や活性について、わかっていることを教えてください。"@jp ;
+    rdfs:comment "ACE2タンパク質の既知の機能や活性について、わかっていることを教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2タンパク質の既知の機能や活性について、わかっていることを教えてください。

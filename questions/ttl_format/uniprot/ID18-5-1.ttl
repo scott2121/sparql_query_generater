@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:lrZWyB a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID18-5-1" ;
-    rdfs:comment "ACE2タンパク質と相互作用するリガンド名を列挙してください。"@jp ;
+    rdfs:comment "ACE2タンパク質と相互作用するリガンド名を列挙してください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2タンパク質と相互作用するリガンド名を列挙してください。

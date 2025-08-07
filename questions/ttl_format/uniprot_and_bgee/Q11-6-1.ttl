@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:lKQJGS a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q11-6-1" ;
-    rdfs:comment "ACE2遺伝子の結合領域を標的とすることが知られている分子はどれですか？また、さまざまな生物における発現の違いはどのようになっていますか？"@jp ;
+    rdfs:comment "ACE2遺伝子の結合領域を標的とすることが知られている分子はどれですか？また、さまざまな生物における発現の違いはどのようになっていますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ACE2遺伝子の結合領域を標的とすることが知られている分子はどれですか？また、さまざまな生物における発現の違いはどのようになっていますか？
 # Parameter: uniprot_gene_name: (example: ACE2)

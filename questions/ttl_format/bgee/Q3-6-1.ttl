@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:TMTC87 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q3-6-1" ;
-    rdfs:comment "APOC1遺伝子のFDR調整済みp値はいくつですか？"@jp ;
+    rdfs:comment "APOC1遺伝子のFDR調整済みp値はいくつですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子のFDR調整済みp値はいくつですか？
 # Parameter: gene_name: (example: APOC1)

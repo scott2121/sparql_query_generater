@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:YWRh3y a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q9-5-1" ;
-    rdfs:comment "rhea:10024の反応を記述している研究のPubMed参照番号は何ですか？"@jp ;
+    rdfs:comment "rhea:10024の反応を記述している研究のPubMed参照番号は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024の反応を記述している研究のPubMed参照番号は何ですか？
 # Parameter: Reaction: (example: rhea:10024)

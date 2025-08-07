@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:uawUnq a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q2-5-1" ;
-    rdfs:comment "RGMA 遺伝子はどの発達段階で活性化され、他にどのような別名が知られていますか？"@jp ;
+    rdfs:comment "RGMA 遺伝子はどの発達段階で活性化され、他にどのような別名が知られていますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: RGMA 遺伝子はどの発達段階で活性化され、他にどのような別名が知られていますか？
 # Parameter: gene_name: (example: RGMA)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:v9B7H4 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID5-6-1" ;
-    rdfs:comment "ACE2の翻訳領域を示すORF（オープンリーディングフレーム）名は何でしょうか?"@jp ;
+    rdfs:comment "ACE2の翻訳領域を示すORF（オープンリーディングフレーム）名は何でしょうか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2の翻訳領域を示すORF（オープンリーディングフレーム）名は何でしょうか?

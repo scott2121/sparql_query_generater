@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:tqt0y5 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q14-5-1" ;
-    rdfs:comment "humanの科学的名称は何ですか？"@jp ;
+    rdfs:comment "humanの科学的名称は何ですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: humanの科学的名称は何ですか？
 # Parameter: taxonomy_common_name: (example: human)

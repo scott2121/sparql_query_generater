@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:ZaYDq4 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q17-4-2" ;
-    rdfs:comment "D-tryptophan分子が関与する反応は輸送反応ですか？"@jp ;
+    rdfs:comment "D-tryptophan分子が関与する反応は輸送反応ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: D-tryptophan分子が関与する反応は輸送反応ですか？
 # Parameter: compound_name: (example: D-tryptophan)

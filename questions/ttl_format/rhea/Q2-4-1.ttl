@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:PQIWvk a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q2-4-1" ;
-    rdfs:comment "rhea:10024の反応に関与する化合物のCHEBI IDを教えてください"@jp ;
+    rdfs:comment "rhea:10024の反応に関与する化合物のCHEBI IDを教えてください"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024の反応に関与する化合物のCHEBI IDを教えてください
 # Parameter: Reaction: (example: rhea:10024)

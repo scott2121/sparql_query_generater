@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:U0XaoY a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID9-4-1" ;
-    rdfs:comment "NCBI Gene ID ncbigene:59272に対応するタンパク質の名前は何ですか?"@jp ;
+    rdfs:comment "NCBI Gene ID ncbigene:59272に対応するタンパク質の名前は何ですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: NCBI Gene ID ncbigene:59272に対応するタンパク質の名前は何ですか?

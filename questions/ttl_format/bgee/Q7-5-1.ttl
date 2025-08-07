@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:AzdidW a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q7-5-1" ;
-    rdfs:comment "APOC1遺伝子のUniProt識別子を教えてください。"@jp ;
+    rdfs:comment "APOC1遺伝子のUniProt識別子を教えてください。"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子のUniProt識別子を教えてください。
 # Parameter: gene_name: (example: APOC1)

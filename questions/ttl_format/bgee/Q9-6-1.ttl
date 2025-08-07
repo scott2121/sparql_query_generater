@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:zSzDlV a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q9-6-1" ;
-    rdfs:comment "APOC1遺伝子はどの種に存在していますか？"@jp ;
+    rdfs:comment "APOC1遺伝子はどの種に存在していますか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子はどの種に存在していますか？
 # Parameter: gene_name: (example: APOC1)

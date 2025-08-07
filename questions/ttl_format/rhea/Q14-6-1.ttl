@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:szOzUM a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q14-6-1" ;
-    rdfs:comment "D-tryptophanの分子に対応するIDは何ですか？"@jp ;
+    rdfs:comment "D-tryptophanの分子に対応するIDは何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: D-tryptophanの分子に対応するIDは何ですか？
 # Parameter: compound_name: (example: D-tryptophan)

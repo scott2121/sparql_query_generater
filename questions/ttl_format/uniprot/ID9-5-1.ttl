@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:U0XaoY a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID9-5-1" ;
-    rdfs:comment "NCBI遺伝子データベースでncbigene:59272という識別子を持つエントリーに関連するタンパク質名を知りたいです。"@jp ;
+    rdfs:comment "NCBI遺伝子データベースでncbigene:59272という識別子を持つエントリーに関連するタンパク質名を知りたいです。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: NCBI遺伝子データベースでncbigene:59272という識別子を持つエントリーに関連するタンパク質名を知りたいです。

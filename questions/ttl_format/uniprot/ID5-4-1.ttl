@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:v9B7H4 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID5-4-1" ;
-    rdfs:comment "ACE2遺伝子のORF名は何ですか?"@jp ;
+    rdfs:comment "ACE2遺伝子のORF名は何ですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子のORF名は何ですか?

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:VKk6Yo a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID11-5-1" ;
-    rdfs:comment "ACE2タンパク質の立体構造がProtein Data Bankに登録されている場合、そのPDB IDを教えてください。"@jp ;
+    rdfs:comment "ACE2タンパク質の立体構造がProtein Data Bankに登録されている場合、そのPDB IDを教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2タンパク質の立体構造がProtein Data Bankに登録されている場合、そのPDB IDを教えてください。

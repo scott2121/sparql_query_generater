@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:WIDMEz a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID6-6-1" ;
-    rdfs:comment "UNQ868/PRO1885というORFから翻訳されるタンパク質は何と呼ばれていますか?"@jp ;
+    rdfs:comment "UNQ868/PRO1885というORFから翻訳されるタンパク質は何と呼ばれていますか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: UNQ868/PRO1885というORFから翻訳されるタンパク質は何と呼ばれていますか?

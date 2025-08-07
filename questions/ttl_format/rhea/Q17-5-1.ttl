@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:5WJbXO a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q17-5-1" ;
-    rdfs:comment "L-lysyl-[histone]分子を含む反応は輸送反応ですか？"@jp ;
+    rdfs:comment "L-lysyl-[histone]分子を含む反応は輸送反応ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: L-lysyl-[histone]分子を含む反応は輸送反応ですか？
 # Parameter: compound_name: (example: L-lysyl-[histone])

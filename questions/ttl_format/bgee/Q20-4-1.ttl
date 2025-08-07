@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:qUVaOH a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q20-4-1" ;
-    rdfs:comment "Homo sapiensのAPOC1遺伝子の発達段階ごとの発現量は？"@jp ;
+    rdfs:comment "Homo sapiensのAPOC1遺伝子の発達段階ごとの発現量は？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: Homo sapiensのAPOC1遺伝子の発達段階ごとの発現量は？
 # Parameter: gene_name: (example: APOC1)

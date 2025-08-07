@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:kD3Wf4 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q7-6-1" ;
-    rdfs:comment "primary oocyteに関連するタンパク質機能のアノテーションと、この解剖学的構造の説明を提供してください。"@jp ;
+    rdfs:comment "primary oocyteに関連するタンパク質機能のアノテーションと、この解剖学的構造の説明を提供してください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: primary oocyteに関連するタンパク質機能のアノテーションと、この解剖学的構造の説明を提供してください。
 # Parameter: anatomical_entity_name: (example: primary oocyte)

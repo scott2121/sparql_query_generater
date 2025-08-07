@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:EjQcPS a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q6-6-1" ;
-    rdfs:comment "rhea:10024の反応は分子の輸送に関与していますか？"@jp ;
+    rdfs:comment "rhea:10024の反応は分子の輸送に関与していますか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024の反応は分子の輸送に関与していますか？
 # Parameter: Reaction: (example: rhea:10024)

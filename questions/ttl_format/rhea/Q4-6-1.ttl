@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:4ISqOg a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q4-6-1" ;
-    rdfs:comment "uniprot_enzyme:7.1.3.1のEC番号を持つ酵素が触媒する反応のRHEA番号は何ですか？"@jp ;
+    rdfs:comment "uniprot_enzyme:7.1.3.1のEC番号を持つ酵素が触媒する反応のRHEA番号は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: uniprot_enzyme:7.1.3.1のEC番号を持つ酵素が触媒する反応のRHEA番号は何ですか？
 # Parameter: reaction_ec_number: (example: uniprot_enzyme:7.1.3.1)

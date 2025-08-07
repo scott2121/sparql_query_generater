@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:6ihXWt a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q6-4-1" ;
-    rdfs:comment "APOC1遺伝子のEnsembl Gene IDは何ですか？"@jp ;
+    rdfs:comment "APOC1遺伝子のEnsembl Gene IDは何ですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子のEnsembl Gene IDは何ですか？
 # Parameter: gene_name: (example: APOC1)

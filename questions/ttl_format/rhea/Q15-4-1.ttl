@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:RMPbmD a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q15-4-1" ;
-    rdfs:comment "rhea:10024の反応の順方向反応のIDを教えてください"@jp ;
+    rdfs:comment "rhea:10024の反応の順方向反応のIDを教えてください"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024の反応の順方向反応のIDを教えてください
 # Parameter: Reaction: (example: rhea:10024)

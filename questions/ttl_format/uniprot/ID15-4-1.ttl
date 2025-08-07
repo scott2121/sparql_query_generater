@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:71RBVe a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID15-4-1" ;
-    rdfs:comment "ACE2遺伝子のタンパク質に関する主要な文献の引用情報であるDOIはなんですか?"@jp ;
+    rdfs:comment "ACE2遺伝子のタンパク質に関する主要な文献の引用情報であるDOIはなんですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子のタンパク質に関する主要な文献の引用情報であるDOIはなんですか?

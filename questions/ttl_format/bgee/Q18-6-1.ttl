@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:v7VZRp a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q18-6-1" ;
-    rdfs:comment "primary oocyte細胞におけるそれぞれの遺伝子の発現レベルはどうですか？"@jp ;
+    rdfs:comment "primary oocyte細胞におけるそれぞれの遺伝子の発現レベルはどうですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: primary oocyte細胞におけるそれぞれの遺伝子の発現レベルはどうですか？
 # Parameter: anatomical_entity_name: (example: primary oocyte)

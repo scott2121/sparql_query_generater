@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:LdmKD6 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q10-5-1" ;
-    rdfs:comment "このobo:CHEBI_15377 分子の正味の電荷は正、負、それとも中性ですか？"@jp ;
+    rdfs:comment "このobo:CHEBI_15377 分子の正味の電荷は正、負、それとも中性ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: このobo:CHEBI_15377 分子の正味の電荷は正、負、それとも中性ですか？
 # Parameter: compound_chebi: (example: obo:CHEBI_15377)

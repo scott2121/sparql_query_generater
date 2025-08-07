@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:3WaHsa a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q12-4-1" ;
-    rdfs:comment "APOC1遺伝子の発達段階ごとの発現量は？"@jp ;
+    rdfs:comment "APOC1遺伝子の発達段階ごとの発現量は？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子の発達段階ごとの発現量は？
 # Parameter: gene_name: (example: APOC1)

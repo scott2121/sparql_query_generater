@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:uVqLWh a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID25-4-1" ;
-    rdfs:comment "angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanineという反応を触媒するタンパク質の名前は何ですか?"@jp ;
+    rdfs:comment "angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanineという反応を触媒するタンパク質の名前は何ですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanineという反応を触媒するタンパク質の名前は何ですか?

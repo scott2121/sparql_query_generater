@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:hpF88e a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q14-5-1" ;
-    rdfs:comment "ORF名UNQ868/PRO1885に対応する遺伝子は、発達のどの時点で発現していますか？"@jp ;
+    rdfs:comment "ORF名UNQ868/PRO1885に対応する遺伝子は、発達のどの時点で発現していますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ORF名UNQ868/PRO1885に対応する遺伝子は、発達のどの時点で発現していますか？
 # Parameter: uniprot_orf_name: (example: UNQ868/PRO1885)

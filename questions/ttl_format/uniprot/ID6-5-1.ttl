@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:WIDMEz a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID6-5-1" ;
-    rdfs:comment "Open Reading Frame UNQ868/PRO1885がコードするタンパク質の正式名称を知りたいです。"@jp ;
+    rdfs:comment "Open Reading Frame UNQ868/PRO1885がコードするタンパク質の正式名称を知りたいです。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: Open Reading Frame UNQ868/PRO1885がコードするタンパク質の正式名称を知りたいです。

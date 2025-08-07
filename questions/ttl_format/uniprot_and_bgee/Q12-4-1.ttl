@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:RoqQHG a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q12-4-1" ;
-    rdfs:comment "反応 angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine を触媒するタンパク質をコードする遺伝子の発現パターンは各組織でどのようになっていますか？"@jp ;
+    rdfs:comment "反応 angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine を触媒するタンパク質をコードする遺伝子の発現パターンは各組織でどのようになっていますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: 反応 angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine を触媒するタンパク質をコードする遺伝子の発現パターンは各組織でどのようになっていますか？
 # Parameter: rhea_label: (example: angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine)

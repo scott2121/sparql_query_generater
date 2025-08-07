@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:ECsj2Z a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q4-5-1" ;
-    rdfs:comment "ACE2 という遺伝子の Ensembl Gene ID と EC 番号を教えていただけますか？"@jp ;
+    rdfs:comment "ACE2 という遺伝子の Ensembl Gene ID と EC 番号を教えていただけますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ACE2 という遺伝子の Ensembl Gene ID と EC 番号を教えていただけますか？
 # Parameter: gene_name: (example: ACE2)

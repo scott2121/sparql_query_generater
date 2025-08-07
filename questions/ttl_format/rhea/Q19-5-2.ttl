@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:JyS7ct a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q19-5-2" ;
-    rdfs:comment "D-tryptophan分子を含む反応のRHEA識別子と反応式は何ですか？"@jp ;
+    rdfs:comment "D-tryptophan分子を含む反応のRHEA識別子と反応式は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: D-tryptophan分子を含む反応のRHEA識別子と反応式は何ですか？
 # Parameter: compound_name: (example: D-tryptophan)

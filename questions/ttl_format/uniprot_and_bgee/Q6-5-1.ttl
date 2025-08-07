@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:HYylnP a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q6-5-1" ;
-    rdfs:comment "解剖学的実体 primary oocyte の説明を教えてください。それに対応する EC 番号は何ですか？"@jp ;
+    rdfs:comment "解剖学的実体 primary oocyte の説明を教えてください。それに対応する EC 番号は何ですか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: 解剖学的実体 primary oocyte の説明を教えてください。それに対応する EC 番号は何ですか？
 # Parameter: anatomical_entity_name: (example: primary oocyte)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:6b1hyl a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q4-4-1" ;
-    rdfs:comment "APOC1遺伝子はどの性別で発現していますか？"@jp ;
+    rdfs:comment "APOC1遺伝子はどの性別で発現していますか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子はどの性別で発現していますか？
 # Parameter: gene_name: (example: APOC1)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:3OrQI7 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q11-5-1" ;
-    rdfs:comment "rhea:10024反応に関与する各分子の正味の電荷は正、負、それとも中性ですか、分子名とともに教えてください？"@jp ;
+    rdfs:comment "rhea:10024反応に関与する各分子の正味の電荷は正、負、それとも中性ですか、分子名とともに教えてください？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024反応に関与する各分子の正味の電荷は正、負、それとも中性ですか、分子名とともに教えてください？
 # Parameter: Reaction: (example: rhea:10024)

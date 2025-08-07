@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:lrZWyB a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID17-6-1" ;
-    rdfs:comment "ACE2遺伝子産物の結合部位において、リガンドが結合する配列の開始位置と終了位置を教えてください。"@jp ;
+    rdfs:comment "ACE2遺伝子産物の結合部位において、リガンドが結合する配列の開始位置と終了位置を教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2遺伝子産物の結合部位において、リガンドが結合する配列の開始位置と終了位置を教えてください。

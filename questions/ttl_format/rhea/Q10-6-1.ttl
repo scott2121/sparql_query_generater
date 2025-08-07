@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:LdmKD6 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q10-6-1" ;
-    rdfs:comment "このobo:CHEBI_15377 の全体的な電気的電荷は何ですか？"@jp ;
+    rdfs:comment "このobo:CHEBI_15377 の全体的な電気的電荷は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: このobo:CHEBI_15377 の全体的な電気的電荷は何ですか？
 # Parameter: compound_chebi: (example: obo:CHEBI_15377)

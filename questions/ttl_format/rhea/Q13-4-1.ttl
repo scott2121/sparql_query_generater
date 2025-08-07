@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:5fhBQs a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q13-4-1" ;
-    rdfs:comment "RHEA ID rhea:20105に対応する反応のEC番号は何ですか？"@jp ;
+    rdfs:comment "RHEA ID rhea:20105に対応する反応のEC番号は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: RHEA ID rhea:20105に対応する反応のEC番号は何ですか？
 # Parameter: Reaction: (example: rhea:20105)

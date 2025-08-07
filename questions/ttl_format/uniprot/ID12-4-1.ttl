@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:asBLsc a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID12-4-1" ;
-    rdfs:comment "PDB ID pdb:7A97に関連するタンパク質の名前は何ですか?"@jp ;
+    rdfs:comment "PDB ID pdb:7A97に関連するタンパク質の名前は何ですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: PDB ID pdb:7A97に関連するタンパク質の名前は何ですか?

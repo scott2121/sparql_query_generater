@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:IXdAUl a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID13-6-1" ;
-    rdfs:comment "Gene Ontologyデータベースにおいて、ACE2遺伝子産物はどのような機能や過程に分類されていますか?"@jp ;
+    rdfs:comment "Gene Ontologyデータベースにおいて、ACE2遺伝子産物はどのような機能や過程に分類されていますか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: Gene Ontologyデータベースにおいて、ACE2遺伝子産物はどのような機能や過程に分類されていますか?

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:96lyqb a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID1-4-1" ;
-    rdfs:comment "Angiotensin-converting enzyme 2というフルネームを持つタンパク質のUniProt IDは何ですか?"@jp ;
+    rdfs:comment "Angiotensin-converting enzyme 2というフルネームを持つタンパク質のUniProt IDは何ですか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: Angiotensin-converting enzyme 2というフルネームを持つタンパク質のUniProt IDは何ですか?

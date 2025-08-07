@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:TMTC87 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q3-5-1" ;
-    rdfs:comment "APOC1遺伝子の偽発見率（FDR）p値を教えてください。"@jp ;
+    rdfs:comment "APOC1遺伝子の偽発見率（FDR）p値を教えてください。"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: APOC1遺伝子の偽発見率（FDR）p値を教えてください。
 # Parameter: gene_name: (example: APOC1)

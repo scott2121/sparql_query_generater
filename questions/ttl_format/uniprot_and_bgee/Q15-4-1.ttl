@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:maMPi9 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q15-4-1" ;
-    rdfs:comment "PDB ID pdb:7A97に関連するタンパク質をコードする遺伝子のFDR調整済みp値は何ですか？"@jp ;
+    rdfs:comment "PDB ID pdb:7A97に関連するタンパク質をコードする遺伝子のFDR調整済みp値は何ですか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: PDB ID pdb:7A97に関連するタンパク質をコードする遺伝子のFDR調整済みp値は何ですか？
 # Parameter: uniprot_pdb: (example: pdb:7A97)

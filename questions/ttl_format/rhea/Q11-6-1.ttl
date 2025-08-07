@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:3OrQI7 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q11-6-1" ;
-    rdfs:comment "rhea:10024反応に関与するすべての分子の電荷を分子名とともに教えていただけますか？"@jp ;
+    rdfs:comment "rhea:10024反応に関与するすべての分子の電荷を分子名とともに教えていただけますか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024反応に関与するすべての分子の電荷を分子名とともに教えていただけますか？
 # Parameter: Reaction: (example: rhea:10024)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:CYiyA9 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q13-4-1" ;
-    rdfs:comment "PDB ID pdb:7A97 に関連するタンパク質の名前は何ですか？また、その対応する遺伝子はどの種で発現していますか？"@jp ;
+    rdfs:comment "PDB ID pdb:7A97 に関連するタンパク質の名前は何ですか？また、その対応する遺伝子はどの種で発現していますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: PDB ID pdb:7A97 に関連するタンパク質の名前は何ですか？また、その対応する遺伝子はどの種で発現していますか？
 # Parameter: uniprot_pdb: (example: pdb:7A97)

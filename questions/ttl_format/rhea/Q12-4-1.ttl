@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:2UM7oh a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q12-4-1" ;
-    rdfs:comment "rhea:10024反応に含まれるすべての分子名を教えてください。"@jp ;
+    rdfs:comment "rhea:10024反応に含まれるすべての分子名を教えてください。"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024反応に含まれるすべての分子名を教えてください。
 # Parameter: Reaction: (example: rhea:10024)

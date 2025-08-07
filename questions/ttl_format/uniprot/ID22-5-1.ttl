@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:zbxlf0 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID22-5-1" ;
-    rdfs:comment "TRP4.8遺伝子の自然発生的な多型や変異体について、現在わかっていることを教えてください。"@jp ;
+    rdfs:comment "TRP4.8遺伝子の自然発生的な多型や変異体について、現在わかっていることを教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: TRP4.8遺伝子の自然発生的な多型や変異体について、現在わかっていることを教えてください。

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:UWJTMm a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "ID0-6-1" ;
-    rdfs:comment "ACE2に対応するタンパク質のUniProt accession numberは何でしょうか?"@jp ;
+    rdfs:comment "ACE2に対応するタンパク質のUniProt accession numberは何でしょうか?"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 #           https://sparql.uniprot.org/sparql
 # Description: ACE2に対応するタンパク質のUniProt accession numberは何でしょうか?

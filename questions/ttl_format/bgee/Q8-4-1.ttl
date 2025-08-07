@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:lADXPP a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q8-4-1" ;
-    rdfs:comment "LOC118972170遺伝子のNCBI Gene IDは何ですか？"@jp ;
+    rdfs:comment "LOC118972170遺伝子のNCBI Gene IDは何ですか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: LOC118972170遺伝子のNCBI Gene IDは何ですか？
 # Parameter: gene_name: (example: LOC118972170)

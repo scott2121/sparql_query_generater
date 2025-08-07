@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:weo6wK a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q17-6-1" ;
-    rdfs:comment "生物学的名称ごとに見たAPOC1遺伝子の発現レベルはどうなっていますか？"@jp ;
+    rdfs:comment "生物学的名称ごとに見たAPOC1遺伝子の発現レベルはどうなっていますか？"@ja ;
     sh:select """# Endpoint: https://www.bgee.org/sparql
 # Description: 生物学的名称ごとに見たAPOC1遺伝子の発現レベルはどうなっていますか？
 # Parameter: gene_name: (example: APOC1)

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:ASokBB a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q3-6-1" ;
-    rdfs:comment "ACE2遺伝子のUniProt IDと、さまざまな発生段階における発現レベルを教えてください。"@jp ;
+    rdfs:comment "ACE2遺伝子のUniProt IDと、さまざまな発生段階における発現レベルを教えてください。"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ACE2遺伝子のUniProt IDと、さまざまな発生段階における発現レベルを教えてください。
 # Parameter: gene_name: (example: ACE2)

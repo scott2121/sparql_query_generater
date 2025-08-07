@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:HyQmE5 a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q1-6-1" ;
-    rdfs:comment "rhea:10024に対応する化学反応式の詳細を示してください。"@jp ;
+    rdfs:comment "rhea:10024に対応する化学反応式の詳細を示してください。"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024に対応する化学反応式の詳細を示してください。
 # Parameter: Reaction: (example: rhea:10024)

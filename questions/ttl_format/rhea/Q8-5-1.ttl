@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:C80ABS a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q8-5-1" ;
-    rdfs:comment "rhea:10024の逆反応のRHEA識別子は何ですか？"@jp ;
+    rdfs:comment "rhea:10024の逆反応のRHEA識別子は何ですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024の逆反応のRHEA識別子は何ですか？
 # Parameter: Reaction: (example: rhea:10024)

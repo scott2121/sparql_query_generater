@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:gHhZRc a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q5-6-1" ;
-    rdfs:comment "rhea:10024に示される反応は化学量論的に正しいですか？"@jp ;
+    rdfs:comment "rhea:10024に示される反応は化学量論的に正しいですか？"@ja ;
     sh:select """# Endpoint: https://sparql.rhea-db.org/sparql
 # Description: rhea:10024に示される反応は化学量論的に正しいですか？
 # Parameter: Reaction: (example: rhea:10024)

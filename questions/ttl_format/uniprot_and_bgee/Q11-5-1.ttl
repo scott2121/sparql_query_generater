@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 ex:lKQJGS a sh:SPARQLSelectExecutable, sh:SPARQLExecutable ;
     rdfs:label "Q11-5-1" ;
-    rdfs:comment "ACE2遺伝子の結合部位に結合する分子化合物は何ですか？さらに、この遺伝子の異なる種における発現レベルはどうなっていますか？"@jp ;
+    rdfs:comment "ACE2遺伝子の結合部位に結合する分子化合物は何ですか？さらに、この遺伝子の異なる種における発現レベルはどうなっていますか？"@ja ;
     sh:select """# Endpoint: https://rdfportal.org/sib/sparql
 # Description: ACE2遺伝子の結合部位に結合する分子化合物は何ですか？さらに、この遺伝子の異なる種における発現レベルはどうなっていますか？
 # Parameter: uniprot_gene_name: (example: ACE2)
